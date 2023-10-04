@@ -1,0 +1,15 @@
+C:\Users\maksi\Desktop\Обучение в Geek Brains\Курс. Знакомство с языками программирования. C#\Examples\Examples001_HelloConsole\bin\Debug\net6.0\Examples001_HelloConsole.exe
+C:\Users\maksi\Desktop\Обучение в Geek Brains\Курс. Знакомство с языками программирования. C#\Examples\Examples001_HelloConsole\bin\Debug\net6.0\Examples001_HelloConsole.deps.json
+C:\Users\maksi\Desktop\Обучение в Geek Brains\Курс. Знакомство с языками программирования. C#\Examples\Examples001_HelloConsole\bin\Debug\net6.0\Examples001_HelloConsole.runtimeconfig.json
+C:\Users\maksi\Desktop\Обучение в Geek Brains\Курс. Знакомство с языками программирования. C#\Examples\Examples001_HelloConsole\bin\Debug\net6.0\Examples001_HelloConsole.dll
+C:\Users\maksi\Desktop\Обучение в Geek Brains\Курс. Знакомство с языками программирования. C#\Examples\Examples001_HelloConsole\bin\Debug\net6.0\Examples001_HelloConsole.pdb
+C:\Users\maksi\Desktop\Обучение в Geek Brains\Курс. Знакомство с языками программирования. C#\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\maksi\Desktop\Обучение в Geek Brains\Курс. Знакомство с языками программирования. C#\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\Desktop\Обучение в Geek Brains\Курс. Знакомство с языками программирования. C#\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\maksi\Desktop\Обучение в Geek Brains\Курс. Знакомство с языками программирования. C#\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.AssemblyInfo.cs
+C:\Users\maksi\Desktop\Обучение в Geek Brains\Курс. Знакомство с языками программирования. C#\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\Обучение в Geek Brains\Курс. Знакомство с языками программирования. C#\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.dll
+C:\Users\maksi\Desktop\Обучение в Geek Brains\Курс. Знакомство с языками программирования. C#\Examples\Examples001_HelloConsole\obj\Debug\net6.0\refint\Examples001_HelloConsole.dll
+C:\Users\maksi\Desktop\Обучение в Geek Brains\Курс. Знакомство с языками программирования. C#\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.pdb
+C:\Users\maksi\Desktop\Обучение в Geek Brains\Курс. Знакомство с языками программирования. C#\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.genruntimeconfig.cache
+C:\Users\maksi\Desktop\Обучение в Geek Brains\Курс. Знакомство с языками программирования. C#\Examples\Examples001_HelloConsole\obj\Debug\net6.0\ref\Examples001_HelloConsole.dll
